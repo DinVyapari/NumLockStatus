@@ -13,7 +13,7 @@ pip install infi.systray
 4. Edit Run.bat and update it with your Python installation directory and the directory where you have saved the repository. **Ensure that your path points to pythonw.exe and not python.exe.**
 5. Create a shortcut for run.bat and save it in your startup directory. This will execute the program automatically on startup. <br>
 **(C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)**
-6. Run the program. Unhide the indicator icon by dragging it out of the system tray.
+6. Run the program. Unhide the status indicator icon by dragging it out of the system tray. It will unhide automatically from the next run.
 
 ## To Do:
 
