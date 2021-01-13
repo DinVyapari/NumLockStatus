@@ -18,4 +18,4 @@ pip install infi.systray
 ## To Do:
 
 - [ ] Migrate to C++
-- [ ] Port to Linux
+- [ ] Port to Linux and MacOS
